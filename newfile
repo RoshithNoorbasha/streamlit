@@ -1,2 +1,3 @@
-print=("hello wolrd")
-print
+import streamlit as st
+
+st.title("hello iam a web app")
